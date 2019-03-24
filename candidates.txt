@@ -1,0 +1,33 @@
+{
+"candidates":{
+	"candidate":[
+	{"name":"Mieszko I",
+	"party":"Piastowie"},
+	{"name":"Boles³aw Chrobry",
+	"party":"Piastowie"},
+	{"name":"W³adys³aw £okietek",
+	"party":"Piastowie"},
+	{"name":"Kazimierz Wielki",
+	"party":"Piastowie"},
+	{"name":"W³adys³aw Jagie³³o",
+	"party":"Dynastia Jagiellonów"},
+	{"name":"W³adys³aw Warneñczyk",
+	"party":"Dynastia Jagiellonów"},
+	{"name":"Zygmunt Stary",
+	"party":"Dynastia Jagiellonów"},
+	{"name":"Henryk Walezy",
+	"party":"Elekcyjni dla Polski"},
+	{"name":"Anna Jagiellonka",
+	"party":"Elekcyjni dla Polski"},
+	{"name":"Stefan Batory",
+	"party":"Elekcyjni dla Polski"},
+	{"name":"Zygmunt Waza",
+	"party":"Wazowie"},
+	{"name":"W³adys³aw Waza",
+	"party":"Wazowie"},
+	{"name":"Jan Kazimierz",
+	"party":"Wazowie"}
+  	]
+	
+ }
+}
